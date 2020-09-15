@@ -1,0 +1,223 @@
+.mb-editor .mb-rb {border:1px dashed #DBDBDB;min-height:30px;box-sizing: border-box !important;-moz-box-sizing:border-box !important;-webkit-box-sizing:border-box !important;}
+.mb-editor .mb-rb img {box-shadow:none !important;display:inline-block !important;vertical-align:middle !important;max-width:100%;height:auto;border: 0;-ms-interpolation-mode: bicubic;image-rendering: optimizeQuality;}
+.mb-editor .mb-rb p{margin:0px;}
+.mb-editor .responsive-list:after, .mb-editor .gallery-list:after, .mb-editor .mb-clearfix:after{content:"";display:block;visibility:hidden;height:0;clear:both  !important;}
+.mb-editor .clear{ clear:both  !important;}
+
+.mb-editor-composer .mp-editor-tabs-item-box{
+	font-size: 13px !important;
+	font-weight:700 !important;
+	padding:6px 0px !important; 
+	color:#fff;
+	border-right:1px solid #676767;
+}
+.mb-mobile .mb-editor-composer .mp-editor-tabs-item-box{
+	font-size: 12px !important;
+}
+.mb-editor-composer .mp-editor-tabs-item-box:active,
+.mb-editor-composer .mp-editor-tabs-item-box:hover{
+	color:#fff;
+}
+.mb-editor-composer .mp-editor-tabs-item{
+	display:inline-block;
+	position:relative;
+	width:33.3333%;
+	max-width:250px;
+	z-index:100;
+	cursor:pointer !important;
+	font-weight: 500; 
+	color:#888;	
+	text-align:center;
+}
+.mb-editor-composer .mp-editor-tabs-selected {
+	color:#555; 
+	z-index:101;
+	background-color:#fff;
+}
+.mb-editor-composer .mp-editor-tabs-selected .mp-editor-tabs-item-box{
+	color:#555;	
+	border-bottom:0 !important;
+}
+.mb-editor-composer .mp-editor-tabs-selected .mp-editor-tabs-item-box a{color:#333 !important;}
+.mb-editor-composer .mp-editor-tabs-item-box a{color:#eee !important;}
+.mb-editor-composer .mp-editor-tabs-item-box a:hover{color:#eee !important;}
+
+
+.mb-editor-composer .mb-editor-margin{border:1px dashed #bababa;margin:1px !important;position:relative;}
+.mb-editor-composer .mb-editor-style-box{
+	margin-bottom:10px;
+}
+.mb-editor-composer .mb-editor-style-box input{
+	position: absolute;
+    text-align: center;
+    padding: 3px 0;
+    height: 24px;
+    width: 34px;
+    margin: 0;
+    border: 1px solid #bdbdbd;
+    font-size: 11px;
+    line-height: 11px;
+}
+.mb-editor-composer .mb-editor-style-box .mb-editor-label1{
+	position: absolute;
+    font-size: 12px !important;
+	font-weight:600 !important;
+    line-height: 16px;
+    top: 9px;
+    left: 12px;
+    color: #888 !important;;
+    margin: 0;
+    padding: 0;
+}
+.mb-editor-composer .mb-editor-style-box .mb-editor-label2{
+	position: absolute;
+    font-size: 12px !important;
+	font-weight:600 !important;
+    line-height: 16px;
+    top: 3px;
+    left: 6px;
+    color: #888 !important;;
+    margin: 0;
+    padding: 0;
+}
+
+.mb-editor-composer .mb-editor-margin .mb-editor-margin-top{
+	top: 11px;
+    left: 50%;
+    margin-left: -17px !important;
+}
+.mb-editor-composer .mb-editor-margin .mb-editor-margin-right{
+	top: 53%;
+    right: 5px;
+    margin-top: -12px !important;
+}
+.mb-editor-composer .mb-editor-margin .mb-editor-margin-bottom{
+	bottom: 11px;
+    left: 50%;
+    margin-left: -17px !important;
+}
+.mb-editor-composer .mb-editor-margin .mb-editor-margin-left{
+	top: 53%;
+    left: 5px;
+    margin-top: -12px !important;
+}
+
+.mb-editor-composer .mb-editor-border{border: 1px dashed  #EEEEEE;padding: 27px 32px !important;position: relative;}
+.mb-editor-composer .mb-editor-border .mb-editor-border-top-width{
+	top: 6px;
+    left: 50%;
+    margin-left: -14px !important;
+}
+.mb-editor-composer .mb-editor-border .mb-editor-border-right-width{
+	top: 53%;
+    right: 2px;
+    margin-top: -14px !important;
+}
+.mb-editor-composer .mb-editor-border .mb-editor-border-bottom-width{
+	bottom: 6px;
+    left: 50%;
+    margin-left: -14px !important;
+}
+.mb-editor-composer .mb-editor-border .mb-editor-border-left-width{
+	top: 53%;
+    left: 2px;
+    margin-top: -14px !important;
+}
+
+.mb-editor-composer .mb-editor-padding{border: 1px solid #DDDDDD;position: relative;padding: 27px 32px !important;}
+.mb-editor-composer .mb-editor-padding .mb-editor-padding-top{
+	top: 2px;
+    left: 50%;
+    margin-left: -14px !important;
+}
+.mb-editor-composer .mb-editor-padding .mb-editor-padding-right{
+	top: 53%;
+    right: 2px;
+    margin-top: -12px !important;
+}
+.mb-editor-composer .mb-editor-padding .mb-editor-padding-bottom{
+	bottom: 2px;
+    left: 50%;
+    margin-left: -14px !important;
+}
+.mb-editor-composer .mb-editor-padding .mb-editor-padding-left{
+	top: 53%;
+    left: 2px;
+    margin-top: -12px !important;
+}
+.mb-editor-composer .mb-editor-board-style5{
+	border: 1px dashed  #EEEEEE;
+	padding:1px;
+}
+
+.mb-editor-composer .mb-editor-board-style2{
+	border: 1px dashed  #EEEEEE;
+	padding:5px;
+}
+.mb-editor-composer .mb-editor-board-style1{
+	border: 1px dashed  #EEEEEE;
+    min-height: 16px;
+    font-size: 12px !important;
+	font-weight:600 !important;
+    line-height: 15px;
+    color: #888 !important;
+	text-align:center;
+	min-width:40px;
+}
+.mb-editor-composer .mb-inner-box .mb-editor-board-style1{border:none !important;}
+.mb-editor-composer .mb-inner-box .mb-editor-board-style2{border:none !important;}
+.mb-editor-composer .mb-inner-box .mb-editor-board-style5{padding:11px;}
+
+.mb-editor-composer .mb-outer-box .mb-editor-board-style1{border:none !important;}
+.mb-editor-composer .mb-outer-box .mb-editor-board-style5{border:none !important;}
+.mb-editor-composer .mb-outer-box .mb-editor-board-style1{min-height:35px;line-height: 33px;}
+.mb-editor-composer .mb-outer-box .mb-editor-board-style2{padding:6px;}
+
+.mb-editor-composer .mb-wrap-box .mb-editor-board-style4{border:none !important;}
+.mb-editor-composer .mb-wrap-box .mb-editor-board-style5{border:none !important;}
+
+.mb-editor-composer .mb-wrap-box .mb-editor-board-style1{min-height:26px;line-height: 23px;}
+.mb-editor-composer .mb-wrap-box .mb-editor-board-style2{padding:11px;}
+
+.mb-editor-composer .mb-editor-style-box input[type="text"]{
+	width:28px !important;
+	height:19px !important;
+	min-height:19 !important;	
+	font-size:12px !important;
+	padding:5px 2px !important;
+}
+
+.mb-editor-composer input,.mb-editor-composer select{display:inline-block !important;vertical-align:top !important;-webkit-border-radius:0px !important;-moz-border-radius:0px !important;-khtml-border-radius:0px !important;border-radius:0px !important;border:1px solid #DDD !important;}
+.mb-editor-composer .mb-box-attr-label{display:inline-block !important;min-width:98px;padding:4px 6px;border:1px solid #EEE;background-color:#F3F3F3;margin:0px 2px 9px 5px;font-weight:600;}
+.mb-mobile .mb-editor-composer .mb-box-attr-label{min-width:70px;margin:0px 0px 4px 0px;}
+
+.mb-editor-composer .mb-editor-composer-tab-title{padding:1px 1px 0px 6px;font-weight:600;font-size:15px;}
+.mb-mobile .mb-editor-composer .mb-editor-composer-tab-title{padding:1px 1px 0px 0px;font-size:14px;}
+.mb-editor-composer .mb-editor-composer-tab-desc{padding:3px 1px 6px 6px;font-size:13px;}
+.mb-mobile .mb-editor-composer .mb-editor-composer-tab-desc{padding:1px 1px 6px 0px;font-size:12px;}
+
+.mb-editor-composer {border:1px solid #d1d1d1;min-width:260px;margin:-1px 0 2px !important}
+
+.mb-editor-composer .mb-editor-composer-tabs{background-color:#777;}
+.mb-editor-composer .mb-layout-btn-box{
+	background-color:#FBFBFB;
+	padding:0px 5px;	
+	position:relative;
+	min-height:36px;
+}
+.mb-editor-composer .mb-box-attr-border{min-width:315px;}
+.mb-mobile .mb-editor-composer .mb-box-attr-border{min-width:286px;}
+.mb-mobile .mb-editor-composer .mb-editor-attr-box select{padding: 3px 2px 2px !important;}
+
+.mb-editor-composer .mb-editor-composer-tab1{position:relative;padding:17px 10px 7px;}
+.mb-editor-composer .mb-editor-composer-tab1 .col-sm-4{max-width:328px;min-height:173px;margin:0 auto;padding:0px 12px;}
+.mb-editor-composer .mb-layout-icon {padding: 4px 1px !important; display:inline-block !important; border:1px solid #ccc; border-radius: 3px; margin:7px 3px 7px 4px !important; background-color:#FAFAFA;cursor: pointer; line-height:0;}
+.mb-editor-composer .mb-layout-icon:hover{background-color:#ffffff; }
+.mb-editor-composer .mb-editor-btn-box{position:absolute;top:8px;right:8px;}
+.mb-editor-composer .mb-layout-btn-box .mb-layout-option-box{display:inline-block !important;height:36px;border-right:1px solid #d1d1d1;vertical-align:top !important;padding:0 3px 0 3px;margin-right:6px;}
+.mb-tablet .mb-editor-composer .mb-layout-btn-box .mb-layout-option-box,
+.mb-mobile .mb-editor-composer .mb-layout-btn-box .mb-layout-option-box{display:block;width:100%;border-right:none;margin-right:0px;height:32px;}
+.mb-editor-composer .mb-layout-btn-box .mb-layout-option-box select{background-color:#FDFDFD;padding:1px 4px !important;margin:6px 4px 0 0 ;height:24px !important;min-height:24px !important;}
+
+.mb-editor-composer-open .mb-layout-btn-box{border-top:1px solid #d1d1d1;}
+.mb-editor-composer-open .mb-editor-attr-box{overflow:visible !important;}

@@ -1,0 +1,3758 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/admin/popups/AllPopups.js:14
+#: src/admin/popups/editor/PopupEditor.js:210
+msgid "Popup"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:14
+msgid "Popups"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:14
+msgid "No Popups Found"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:15
+#: src/admin/popups/editor/PopupEditor.js:210
+msgid "Landing Page"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:15
+msgid "Landing Pages"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:15
+msgid "No Landing Pages Found"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:16
+msgid "Content"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:16
+msgid "Contents"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:16
+msgid "No Embeddable Content Found"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:240
+msgid "Error Picking the Winner. Please reload the page and Try again."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:260
+msgid "Could not Duplicate. Please reload the page and try again."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:334
+msgid "Variations"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:335
+msgid "Create Variation"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:336
+msgid "Start Test"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:337
+msgid "Pause Test"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:364
+msgid "No Popup variations found! Create a"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:364
+msgid "+ New Variation"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:364
+msgid ""
+"of this Popup and change the design/text and find out if it performs better "
+"than the Original Popup."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:373
+msgid "All Popups"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:374
+msgid "New Popup"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:382
+msgid "Selected "
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:386
+msgid "Remove Item(s)"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:398
+#: src/admin/popups/utils/elementlist.js:16
+msgid "Search"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:403
+msgid "Sort By: "
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:407
+msgid "Date Created"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:408
+msgid "Last Updated"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:409
+msgid "Status"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:410
+msgid "Most Viewed"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:411
+#: src/admin/popups/Analytics.js:369
+msgid "Conversions"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:412
+#: src/admin/popups/Analytics.js:343
+msgid "Conversion Rate"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:430
+#: src/admin/popups/editor/visibility/PlacementSettings.js:47
+msgid "Placement"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:431
+msgid "Devices"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:433
+#: src/admin/popups/Analytics.js:368
+msgid "Views"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:434
+msgid "Conversion"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:435
+msgid "Updated"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:462
+msgid "Please create One by clicking the + icon."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:470
+msgid "Edit Title"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:471
+#: src/admin/popups/editor/PopupEditor.js:225
+msgid "Goal"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:472
+msgid "Updating Title"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:480
+msgid "Remove Selected "
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:481
+msgid ""
+"Are you sure you want to remove these Items? Once Removed, they cannot be "
+"recovered."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:484
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:523
+#: src/admin/popups/Presets/UserPresets.js:65
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:131
+#: src/admin/popups/editor/fields/RepeaterField.js:239
+msgid "Remove"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:485
+#: src/admin/popups/Analytics.js:453
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:524
+#: src/admin/popups/Presets/OverWritePreset.js:61
+#: src/admin/popups/editor/Modal.js:22
+msgid "Cancel"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:497
+#: src/admin/popups/PopupItem.js:39
+msgid "Split Test"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:498
+msgid ""
+"Create a new Variation of this Item and serve them to some of the visitors. "
+"This will create an exact copy of this Item."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:500
+msgid "New  Variation Title"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:510
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:168
+msgid "Duplicate "
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:511
+msgid "New  Title"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:512
+msgid "Title"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:513
+msgid "Duplicating "
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:521
+msgid "Select Split Test Winner"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:522
+msgid ""
+"If you select this  variation as winner, the Parent  will be replaced with "
+"the selected variation and all other variations will be removed."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:523
+msgid "Picking Winner.."
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:531
+msgid "Schedule Popup: "
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:540
+#: src/admin/popups/Analytics.js:353
+#: src/admin/popups/UpgradeMessage.js:8
+#: src/admin/popups/editor/PopupEditor.js:236
+#: src/admin/popups/editor/PopupUpgrade.js:134
+msgid "Upgrade"
+msgstr ""
+
+#: src/admin/popups/AllPopups.js:540
+msgid "to Schedule Popups to run on selected dates or certain days of the week."
+msgstr ""
+
+#: src/admin/popups/Analytics.js:207
+#: src/admin/popups/utils/analytics.js:95
+msgid "Today"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:242
+msgid " in"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:245
+msgid "View a Certain Step"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:246
+msgid "Submit a Form"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:247
+msgid "Click an Element"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:251
+msgid "Total Conversions"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:252
+msgid "Goal: "
+msgstr ""
+
+#: src/admin/popups/Analytics.js:255
+msgid "Time"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:257
+#: src/admin/popups/editor/PopupGoal.js:222
+#: src/admin/popups/editor/StepsHeader.js:58
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:53
+msgid "Page"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:259
+msgid "User"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:262
+msgid "Country"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:265
+msgid "Device"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:268
+msgid "Success Rate"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:274
+msgid "User Viewed the campaign "
+msgstr ""
+
+#: src/admin/popups/Analytics.js:274
+msgid " times before completing the goal"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:274
+msgid " User Completed the goal on first view"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:278
+msgid "Registered"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:278
+msgid "Visitor"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:285
+msgid "No Conversions Found"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:292
+msgid "No Items Found."
+msgstr ""
+
+#: src/admin/popups/Analytics.js:303
+msgid "No Title"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:319
+msgid "Most Converted Campaigns"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:323
+msgid "Most Viewed Campaigns"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:352
+msgid ""
+"Upgrade to Brave PRO to Unlock Campaign Statistics, Converted Visitor's "
+"Insight and see how many users viewed or converted each day."
+msgstr ""
+
+#: src/admin/popups/Analytics.js:370
+msgid "Rate"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:412
+msgid "Analytics"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:417
+msgid "Campaign: "
+msgstr ""
+
+#: src/admin/popups/Analytics.js:421
+msgid "All Campaigns"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:436
+msgid "Reset Stats"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:448
+msgid "Reset all Stats of "
+msgstr ""
+
+#: src/admin/popups/Analytics.js:449
+msgid "Are you sure you want to reset all view and conversion data of this popup?"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:452
+msgid "Reset"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:461
+msgid "Brave Analytics"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:478
+msgid "Save user's Ip Address"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:484
+msgid "Save user's Country"
+msgstr ""
+
+#: src/admin/popups/Analytics.js:487
+msgid "Save Settings"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:176
+#: src/admin/popups/Presets/UserPresets.js:63
+msgid " Steps"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:198
+msgid "New "
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:201
+msgid " Title"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:206
+#: src/admin/popups/editor/PopupGoal.js:269
+msgid " Goal"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:224
+msgid "Next"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:233
+msgid "Select Template "
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:241
+#: src/admin/popups/Presets/Presets.js:137
+#: src/admin/popups/editor/fields/MediaPicker.js:235
+msgid "Library"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:242
+#: src/admin/popups/Presets/Presets.js:138
+msgid "Custom"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:286
+#: src/admin/popups/Presets/UserPresets.js:79
+msgid "You do not have any Custom Preset."
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:299
+msgid "Skip & Start With Blank"
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:300
+msgid "Create "
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:307
+msgid "Creating ..."
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:318
+#: src/admin/popups/Presets/Presets.js:202
+msgid "No Preview Found..."
+msgstr ""
+
+#: src/admin/popups/CreatePopup.js:323
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:488
+#: src/admin/popups/Presets/Presets.js:207
+#: src/admin/popups/editor/ImportExport.js:92
+#: src/admin/popups/editor/PopupGoal.js:222
+#: src/admin/popups/editor/StepsHeader.js:58
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:112
+msgid "Step"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/DateFieldSettings.js:86
+msgid "Limit Date Selection"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/DateFieldSettings.js:93
+msgid "Start Date"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/DateFieldSettings.js:98
+msgid "End Date"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormEditor.js:372
+msgid "No Fields Added.."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:189
+msgid "Field Name*"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:195
+msgid "Label"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:200
+msgid "Placeholder"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:214
+msgid "Input Field Type"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:219
+msgid "Last Name Field ID*"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:221
+msgid "No Space allowed."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:224
+msgid "Last Name Label"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:228
+msgid "Last Name Placeholder"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:238
+msgid "Field Height"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:248
+msgid "Default Text"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:249
+msgid "Default Select Text"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:254
+msgid "Multi Select"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:263
+msgid "Display Options Inline"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:269
+msgid "Images Per Row"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:275
+msgid "Allow Multi Select"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:280
+msgid "Field Options"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:316
+msgid "Select Field Type"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:326
+msgid "Select Country"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:342
+msgid "Rating Type"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:345
+msgid "Item Size"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:351
+msgid "Item Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:361
+msgid "Item Selected Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:371
+msgid "Allow Rating upto 10 "
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:380
+msgid "Step Button Label"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:383
+msgid "Display Arrow"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:387
+msgid "Auto Resize Popup Height On Click"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:392
+msgid "New Popup Height"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:401
+#: src/admin/popups/utils/elementlist.js:6
+msgid "Text"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:406
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:68
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:92
+#: src/admin/popups/editor/fields/FontControl.js:146
+msgid "Text Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:413
+msgid "Bold Text"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:417
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:263
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:264
+msgid "Text Size"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:430
+msgid "Input"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:431
+msgid "TextBox"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:432
+msgid "Drop Down"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:433
+msgid "Checkbox"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:434
+msgid "Radio"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:435
+msgid "Image Select"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:436
+msgid "Date"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:437
+msgid "Rating"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:438
+msgid "Custom Label"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:439
+msgid "Step Divider"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:453
+msgid "Add Field"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:473
+msgid "Dropdown"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:483
+msgid "Field"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:488
+#: src/admin/popups/PopupScheduler.js:109
+msgid "Start"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:489
+msgid "View Step"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:508
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:187
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:109
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:126
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:242
+#: src/admin/popups/FormBuilder/settings/FormActionTrack.js:43
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:118
+#: src/admin/popups/editor/fields/TrackActionsField.js:42
+msgid "Required"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormFieldsEditor.js:521
+msgid "Are you sure you want to remove this field?"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormRepeaterField.js:111
+msgid "Add Option"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormRepeaterField.js:130
+msgid "Label *"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormRepeaterField.js:136
+msgid "Value"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormRepeaterField.js:86
+#: src/admin/popups/editor/fields/RepeaterField.js:124
+msgid "No Image Selected"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormRepeaterField.js:88
+#: src/admin/popups/editor/fields/RepeaterField.js:127
+msgid "Add"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/FormRepeaterField.js:97
+#: src/admin/popups/editor/PopupGoal.js:335
+#: src/admin/popups/editor/fields/RepeaterField.js:127
+msgid "Change"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:105
+msgid "Inline Form"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:113
+msgid "Form Font Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:120
+msgid "Form Font"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:129
+msgid "Form Font Size"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:144
+msgid "Fields Font Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:153
+msgid "Fields Background Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:161
+msgid "Fields Border Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:168
+msgid "Fields Border Underline"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:176
+msgid "Fields Font Size"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:187
+msgid "Fields Border Size"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:198
+msgid "Fields Roundness"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:209
+msgid "Fields Inner Spacing"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:220
+msgid "Fields Line Height"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:231
+msgid "Fields Outer Spacing"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:245
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:391
+msgid "Button Text"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:259
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:400
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:421
+msgid "Button Text Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:267
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:429
+msgid "Button Background Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:276
+msgid "Button Icon"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:285
+msgid "Button Icon Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:294
+msgid "Button Font Size"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:306
+msgid "Button Roundness"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:319
+msgid "Button Height"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:332
+msgid "Button Border Size"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:346
+msgid "Button Border Color"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:355
+msgid "Bold Font"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:362
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutSize.js:70
+msgid "Full Width"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:372
+msgid "Button Alignment"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:381
+msgid "Button Hover Animation"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:410
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:275
+#: src/admin/popups/editor/builder/Sidebar/Settings/CodeSettings.js:57
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:533
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:154
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:292
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:253
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:254
+msgid "Upgrade to PRO to Animate this Element"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:416
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:282
+#: src/admin/popups/editor/builder/Sidebar/Settings/CodeSettings.js:63
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:539
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:160
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:446
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:497
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:298
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:259
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:260
+msgid "Element ID"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:420
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:286
+#: src/admin/popups/editor/builder/Sidebar/Settings/CodeSettings.js:67
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:543
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:164
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:450
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:501
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:302
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:263
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:264
+msgid "Custom Classes"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:73
+msgid "Form Settings"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:75
+#: src/admin/popups/utils/elementlist.js:11
+msgid "Form"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:76
+msgid "Style"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:77
+msgid "Action"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:78
+msgid "Other"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:85
+msgid "Upgrade to Add Unlimited Fields"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:85
+msgid "Max"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/PopFormSettings.js:85
+msgid "Fields"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:135
+msgid "Add User to Newsletter"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:145
+msgid ""
+"You have not Integrated a Newsletter Service Yet. Please do so, from Brave "
+"Popups > Integrations and then refresh this page."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:150
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:118
+msgid ""
+"Your Form Does not have an Email Input Field. To activate this Option, "
+"Please add an Input Field and then set the Field type Option to \"Email\"."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:158
+msgid "Newsletter Service"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:167
+msgid "Loading Lists.. "
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:170
+msgid "Error Loading Lists!"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:175
+msgid "Newsletter List"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:177
+msgid "Newsletter Lists"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:187
+msgid "Get Email From"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:189
+msgid "Email Fields"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:199
+msgid "Get Name From"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:211
+msgid "Get Phone Number From"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionNewsletter.js:213
+msgid "All Input Fields"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:109
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:126
+msgid "Email Message"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:117
+msgid "Show Sender's Details(Location, Ip & Name) in Email Footer"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:125
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:147
+#: src/admin/popups/editor/PopupGoal.js:178
+msgid "Sending Email.."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:126
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:148
+#: src/admin/popups/editor/PopupGoal.js:179
+msgid "Email Sent!"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:127
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:149
+#: src/admin/popups/editor/PopupGoal.js:180
+msgid "Error Sending Email!"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:128
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:150
+#: src/admin/popups/editor/PopupGoal.js:177
+msgid "Send Test Email"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:82
+msgid "Recieve an Email"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:90
+msgid "Send to Theses Email Addresses"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:94
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:122
+msgid "Email Subject"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionRecievemail.js:99
+msgid "Custom Email Template"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:105
+msgid "Send Automated Email Reply to Visitor"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:136
+msgid "Sent From Email"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:138
+msgid "Reply to Email"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:139
+msgid "johndoe@mywebsite.com"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:140
+msgid "Invalid Email Address"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSendmail.js:141
+msgid "Update"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:166
+msgid "Submission Success Action"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:174
+msgid "Action Type"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:185
+msgid "Custom Content"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:191
+msgid "Also Start Downloading a File"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:196
+msgid "File URL"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:203
+msgid "Auto Close Popup after"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:205
+msgid "seconds."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:214
+msgid "Select Popup"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:224
+msgid "Go to Step:"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:238
+msgid "Redirect to:"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:242
+msgid "Redirect Message"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:246
+msgid "Redirect After:"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:270
+msgid "When The form is submitted:"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:272
+msgid "You will Recieve an Email."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:273
+msgid "User will Recieve an Email."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:274
+msgid "User will be subscribed to a Newsletter."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:275
+msgid "Form Data will be sent to "
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:276
+msgid "Form Submission event will be sent to Google Analytics."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:78
+msgid "Form will be replaced with a Custom Message."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:79
+msgid ""
+"Form will be replaced with a Custom Message and specified File will Start "
+"Downloading."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:80
+msgid "Go to a different step of the same Popup."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:81
+msgid "Hold Off Submission and Go to a different step of the same Popup."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:82
+msgid "User will see a another Popup."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionSettings.js:83
+msgid "User will be Redirected to another Page."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionTrack.js:27
+msgid "Track Form Submission"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionTrack.js:37
+msgid "Send a Custom Event to Google Analytics"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionTrack.js:39
+#: src/admin/popups/editor/fields/TrackActionsField.js:34
+msgid "Event Category Name"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionTrack.js:43
+msgid "Event Category Action"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionTrack.js:47
+msgid "Event Category Label"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:103
+msgid ""
+"Some of your Fields are missing their Field Name. Please add the Field Name "
+"to all your Fields to enable the Zapier/Integromat feature."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:109
+msgid "Service Type"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:118
+msgid "Zapier Url"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:118
+msgid "Integromat Url"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:123
+#: src/admin/popups/editor/PopupGoal.js:203
+msgid "Sending Sample Data.."
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:124
+#: src/admin/popups/editor/PopupGoal.js:204
+msgid "Sample Data Sent!"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:125
+#: src/admin/popups/editor/PopupGoal.js:205
+msgid "Error Sending Sample Data!"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:126
+#: src/admin/popups/editor/PopupGoal.js:202
+msgid "Send Sample Data"
+msgstr ""
+
+#: src/admin/popups/FormBuilder/settings/FormActionWebhook.js:91
+msgid "Send Data to Zapier / Integromat"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:201
+msgid "Please Insert the Authorization Code First to Get the Refresh Token"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:220
+msgid ""
+"Please Make sure the Client ID, Client Secret & the Authorization Code is "
+"present."
+msgstr ""
+
+#: src/admin/popups/Integrations.js:228
+msgid ""
+"Invalid Client ID, Client Secret, Authorization Code or the Zoho Server is "
+"Not accessible. Please Try again Some time Later."
+msgstr ""
+
+#: src/admin/popups/Integrations.js:261
+msgid "Integrations"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:281
+msgid "Re-Connect"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:281
+msgid "Connect"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:282
+msgid "Connecting..."
+msgstr ""
+
+#: src/admin/popups/Integrations.js:283
+msgid "Removing..."
+msgstr ""
+
+#: src/admin/popups/Integrations.js:288
+#: src/admin/popups/editor/PopupEditor.js:229
+#: src/admin/popups/editor/builder/Sidebar/Sidebar.js:117
+msgid "Settings"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:290
+msgid "Invalid"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:295
+msgid "Zoho Domain"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:312
+msgid "Get Auth Code"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:317
+msgid "Get Refresh Token"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:319
+msgid "How do I get the "
+msgstr ""
+
+#: src/admin/popups/Integrations.js:322
+msgid "Integration Successful"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:324
+msgid "Remove Integration"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:334
+msgid "Remove This Integraion"
+msgstr ""
+
+#: src/admin/popups/Integrations.js:335
+msgid "Are you sure you want to remove this Integraion?"
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:118
+msgid "Welcome To"
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:119
+msgid "Brave Popup Builder"
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:120
+msgid "Take a short tour to learn the ins and outs of the Popup Builder Interface."
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:121
+msgid "Start Tour"
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:122
+msgid "No, Skip The Tour"
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:124
+msgid "Close & Do not show this Message Again"
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:132
+msgid "Brave Tour"
+msgstr ""
+
+#: src/admin/popups/OnBoarding.js:134
+msgid "Exit Tour"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:14
+msgid "Paused"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:14
+msgid "Pause"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:15
+msgid "Active"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:15
+msgid "Resume"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:17
+msgid "Updating"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:19
+msgid "Edit Schedule"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:19
+#: src/admin/popups/editor/PopupEditor.js:255
+msgid "Scheduled"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:38
+msgid "Duplicate Popup"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:40
+msgid "Pick Winner"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:42
+msgid "Schedule Popup"
+msgstr ""
+
+#: src/admin/popups/PopupItem.js:45
+#: src/admin/popups/editor/PopupGoal.js:28
+msgid "None"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:102
+msgid "Total: "
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:120
+msgid "End"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:138
+msgid "Schedule By Date"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:139
+msgid "Schedule By Days"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:142
+msgid "Sunday"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:143
+msgid "Monday"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:144
+msgid "Tuesday"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:145
+msgid "Wednesday"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:146
+msgid "Thursday"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:147
+msgid "Friday"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:148
+msgid "Saturday"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:156
+msgid "Schedule Type"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:166
+msgid "Display the Popup on these Dates only"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:167
+msgid "No Scheduled "
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:167
+msgid " Found. "
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:169
+msgid "+ Add New Date"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:174
+msgid "Display the Popup Every"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:176
+msgid "Select Days"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:177
+msgid "No Days Found"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:186
+msgid "Deactivate Schedule"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:95
+msgid " (Active)"
+msgstr ""
+
+#: src/admin/popups/PopupScheduler.js:95
+msgid " (Expired)"
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:28
+msgid "Preset Overwritten Successfully!"
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:32
+#: src/admin/popups/editor/PopupEditor.js:145
+msgid "Error Saving Preset. Try again Later."
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:43
+msgid "Select a Preset to Overwrite"
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:46
+msgid "Saving Preset..."
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:53
+msgid "Overwrite With Current Step"
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:56
+msgid "Overwrite With Whole Popup"
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:56
+msgid "Steps"
+msgstr ""
+
+#: src/admin/popups/Presets/OverWritePreset.js:60
+msgid "Overwrite"
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:104
+#: src/admin/popups/Presets/UserPresets.js:64
+#: src/admin/popups/editor/ImportExport.js:110
+msgid "Import"
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:132
+#: src/admin/popups/editor/PopupDesign.js:78
+msgid "Presets"
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:183
+msgid "Importing Preset..."
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:188
+msgid "Are you sure you want to Import this Preset?"
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:189
+msgid "Your Current Popup content will be replaced with this preset."
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:189
+msgid "This Preset will add"
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:189
+msgid "Steps to current popup."
+msgstr ""
+
+#: src/admin/popups/Presets/Presets.js:58
+msgid "Preset Successfully Imported!"
+msgstr ""
+
+#: src/admin/popups/Presets/UserPresets.js:67
+msgid "No Preview"
+msgstr ""
+
+#: src/admin/popups/Presets/UserPresets.js:85
+msgid "Removing Custom Preset..."
+msgstr ""
+
+#: src/admin/popups/Presets/UserPresets.js:90
+msgid "Remove Preset"
+msgstr ""
+
+#: src/admin/popups/Presets/UserPresets.js:91
+msgid "Are you sure you want to Remove this Custom Preset?"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:10
+msgid "Increase Post Views"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:11
+msgid "Reduce Cart Abandonment"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:12
+msgid "Increase Social Engagement"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:13
+msgid "WP Login/Signup"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:14
+msgid "Banner Ad"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:15
+#: src/admin/popups/editor/PopupGoal.js:242
+msgid "Custom Goal"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:4
+#: src/admin/popups/editor/fields/FontPicker.js:101
+#: src/admin/popups/editor/visibility/PlacementSettings.js:64
+msgid "All"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:5
+msgid "Newsletter Subscription"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:6
+msgid "Collect Feedback"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:7
+msgid "Show Promo Message"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:8
+msgid "Show Information"
+msgstr ""
+
+#: src/admin/popups/Presets/presetData.js:9
+msgid "Sales/Woocommerce"
+msgstr ""
+
+#: src/admin/popups/UpgradeMessage.js:7
+msgid "Upgrade to PRO to unlock This Feature."
+msgstr ""
+
+#: src/admin/popups/UpgradeMessage.js:7
+msgid "What's This?"
+msgstr ""
+
+#: src/admin/popups/actions/popup.js:260
+msgid "Uploading Online media from "
+msgstr ""
+
+#: src/admin/popups/actions/popup.js:260
+msgid " to your Media Library, this may take a while..."
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:100
+msgid "Export Popup"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:106
+msgid "Import Popup Steps (.json)"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:119
+msgid "Export Selected Steps"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:121
+msgid "Select Steps"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:122
+msgid "No Steps Found"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:129
+msgid "Export"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:36
+msgid "Popup Successfully Imported!"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:84
+msgid "Popup Exported Successfully!"
+msgstr ""
+
+#: src/admin/popups/editor/ImportExport.js:99
+msgid "Import Popup"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:120
+msgid "Mobile Layout Error"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:59
+msgid "Remove Step"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:60
+msgid "Are you sure you want to remove Step"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:61
+msgid "All the content of the this step will be removed and cannot be recovered."
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:76
+msgid "Advance Animation"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:77
+msgid "Documentation"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:80
+msgid "Rate This Plugin"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:84
+msgid "Love this Plugin? Rate Us & Help us keep it Free Forever"
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:85
+msgid ""
+"A lot of Hard work went into building this plugin. It would help us a lot, "
+"if you can rate the plugin and help us grow."
+msgstr ""
+
+#: src/admin/popups/editor/PopupDesign.js:87
+msgid "Rate Plugin"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:101
+msgid "Your Popup is Now Live!!"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:143
+msgid "Preset Saved Successfully!"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:215
+msgid "Back"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:221
+msgid "Design"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:246
+msgid "Preview "
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:253
+msgid "Saving"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:253
+msgid "Save"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:254
+msgid "Draft"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:256
+msgid " Child"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:262
+msgid "Publish "
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:263
+msgid "Unpublish (Draft)"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:271
+msgid "Save all Steps as Preset"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:272
+msgid "Save Current Step as Preset"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:273
+msgid "Overwrite Existing Preset"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:280
+msgid "Save as Preset"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:281
+msgid "Import/Export"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:295
+msgid "Select  Goal Form"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:295
+msgid "Select  Goal Click Element"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:296
+msgid "Navigate through your  Steps and"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:296
+msgid "select one of the glowing elements"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:296
+msgid "to make it the  Goal Target."
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:297
+msgid ""
+"When the selected Form is submitted by the visitor, the goal will be marked "
+"as complete."
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:298
+msgid ""
+"When the selected Element is clicked by the visitor, the goal will be "
+"marked as complete."
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:299
+msgid "Exit Selection Mode"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:321
+msgid "Live Preview"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:323
+msgid "Desktop"
+msgstr ""
+
+#: src/admin/popups/editor/PopupEditor.js:324
+msgid "Mobile"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:163
+msgid "Enable Email Notification"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:169
+msgid "Send Notifications to these Emails:"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:175
+msgid ""
+"Please Upgrade to get Real time Email Notification When the Goal is "
+"completed by the Visitor"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:188
+msgid "Send Goal Completion Data to Zapier"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:193
+msgid "Zapier Webhook URL"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:199
+msgid ""
+"Please Upgrade to send Goal Completion Data to Zapier and connect the data "
+"to hundreds Apps."
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:212
+msgid "Send Goal Complete Events to Google Analytics"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:215
+msgid "Google Analytics Tracking Code Must be Installed."
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:215
+#: src/admin/popups/editor/builder/index.js:280
+#: src/admin/popups/utils/analytics.js:294
+msgid "Learn More"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:225
+msgid "Visitor Clicks an Element"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:226
+msgid "Visitor Submits a Form"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:229
+msgid "Email"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:230
+msgid "Zapier"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:231
+msgid "Google Analytics"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:243
+msgid "Visitor Views a "
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:276
+msgid "Goal Completes When"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:284
+msgid "Target "
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:285
+msgid " "
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:292
+msgid "Optional: You can select Multiple Steps with"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:301
+msgid "Target Elements"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:314
+msgid "None of the Elements have click Enabled."
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:322
+msgid "Target Forms"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:329
+msgid "A"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:329
+msgid "Element in "
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:332
+msgid "Not Selected"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:335
+#: src/admin/popups/editor/builder/elements/ElementWrapper.js:200
+msgid "Select"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:337
+msgid "None of the s have a Form."
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:344
+msgid "Notification"
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:364
+msgid " Goal Email Notification "
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:375
+msgid " Goal Zapier Notification "
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:387
+msgid "Send Event Data to Google Analytics "
+msgstr ""
+
+#: src/admin/popups/editor/PopupGoal.js:390
+msgid "Okay"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:105
+msgid "Advanced Statistics"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:108
+msgid ""
+"With Brave PRO you are able to see how many visitors each day has viewed "
+"your popup and completed the Popup Goal. You can also learn more about the "
+"users who converted. These audience insights help you optimize your "
+"campaign and convert more visitors."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:115
+msgid "Advanced Animation"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:118
+msgid ""
+"With the free version, you can animate popups and elements with simple "
+"preset animations, but with Brave PRO, you can animate your popup, elements "
+"with Advanced Video Editor and Wow your visitors with the modern animated "
+"popup you will be able to create."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:125
+msgid "More Designs to Choose from"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:128
+msgid ""
+"Unlock 50+ preset popups and save time building them from scratch. The "
+"preset library grows bigger every month as we add preset popups frequently."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:24
+msgid "Increase Your Shop Revenue by 30-70% with Woocommerce Popups"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:27
+msgid ""
+"With Brave PRO you can display multiple high converting popups throught "
+"your shop that will encourage customers to buy more and convert leaving "
+"visitors to buyers. PRO version also includes 20+ efficient Woocommerce "
+"Popups."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:31
+msgid "Build Popups Quickly with Millions of free assets"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:34
+msgid ""
+"Brave PRO comes with millions of images and videos from Pixabay and "
+"animated gif and stickers from Giphy. Insert beautiful images, videos, "
+"stickers into your popup with just one click and take your popup design to "
+"next level."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:42
+msgid "Upgrade to Brave PRO"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:47
+msgid "Create Multi step Popups"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:50
+msgid ""
+"With Brave PRO you can create multi step popups and show a custom step when "
+"visitors perform a goal. You can also create Yes/No Popups, product "
+"brochures, look books and even a whole website."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:57
+msgid "Create Multi Step Forms & add more fields"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:60
+msgid ""
+"You can also create multi step forms, which opens up the possibility to "
+"create multi step surveys, feedbacks and break up long forms in easier "
+"steps. You can also add unlimited fields as opposed to the 6 fields limit "
+"in the free version."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:67
+msgid "Make your Popups do more with 9 more Elements"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:70
+msgid ""
+"Upgrade and unlock 9 new elements and create any kind of popups. You can "
+"Insert Youtube / Vimeo Videos into your popup, insert countdown timers to "
+"make your popup convert more, insert animated icons to make your popup "
+"stand out and a lot more."
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:71
+msgid ""
+"Unlock: Video, Timer, Social Bookmarks, Stickers, Dynamic Content, Login, "
+"Posts, Product, Search Elements"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:82
+msgid "Advanced Targeting with Exit Intent feature"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:85
+msgid ""
+"Unlock all the targeting options along with the Exit Intent feature which "
+"usually increases conversion ten fold. On average exit intent popups "
+"increase conversion rate by 30-70%"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:92
+msgid "Embed Popups, Banners, Forms inside Your Post, Page and Widgets"
+msgstr ""
+
+#: src/admin/popups/editor/PopupUpgrade.js:95
+msgid ""
+"With Brave Pro, you can display your popups inside your post or pages or "
+"widgets. You can also lock the content where the popup is embedded and only "
+"unlock the content when visitors perfom the goal. This feature also lets "
+"you display your Banner ads inside your content and sidebars."
+msgstr ""
+
+#: src/admin/popups/editor/PopupVisibility.js:47
+msgid "Child "
+msgstr ""
+
+#: src/admin/popups/editor/PopupVisibility.js:47
+#: src/admin/popups/editor/builder/Sidebar/Sidebar.js:109
+msgid " Settings"
+msgstr ""
+
+#: src/admin/popups/editor/StepsHeader.js:72
+msgid "Add New "
+msgstr ""
+
+#: src/admin/popups/editor/StepsHeader.js:72
+msgid "Add New  (PRO)"
+msgstr ""
+
+#: src/admin/popups/editor/builder/BuilderSettings.js:42
+msgid "More"
+msgstr ""
+
+#: src/admin/popups/editor/builder/LayersPanel.js:149
+msgid "Rename Group"
+msgstr ""
+
+#: src/admin/popups/editor/builder/LayersPanel.js:172
+msgid "All Elements"
+msgstr ""
+
+#: src/admin/popups/editor/builder/LayersPanel.js:183
+msgid "Show Element"
+msgstr ""
+
+#: src/admin/popups/editor/builder/LayersPanel.js:183
+#: src/admin/popups/editor/fields/RepeaterField.js:238
+msgid "Hide"
+msgstr ""
+
+#: src/admin/popups/editor/builder/LayersPanel.js:185
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:145
+msgid "Lock Position"
+msgstr ""
+
+#: src/admin/popups/editor/builder/LayersPanel.js:197
+msgid "Group Name"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:102
+msgid "Blod Font"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:109
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:363
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:186
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:176
+msgid "Shadow"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:118
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:377
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:199
+msgid "Shadow Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:128
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:207
+msgid "Shadow Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:140
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:153
+msgid "Border"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:150
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:409
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:163
+msgid "Border Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:160
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:416
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:171
+msgid "Border Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:172
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:153
+msgid "Letter Spacing"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:184
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:308
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:163
+msgid "Roundness"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:194
+#: src/admin/popups/editor/fields/FontControl.js:100
+msgid "Font Family"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:205
+msgid "Hover Animation"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:218
+msgid "Hover Background Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:226
+msgid "Hover Text Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:56
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:67
+#: src/admin/popups/editor/fields/FontControl.js:112
+msgid "Font Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:76
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:277
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:278
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:189
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:53
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:107
+msgid "Background Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:84
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:122
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:94
+msgid "Icon"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ButtonSettings.js:93
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:102
+msgid "Icon Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/CodeSettings.js:32
+msgid "Shortcodes or Custom HTML"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:210
+msgid "Current Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:212
+msgid "Static"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:213
+#: src/admin/popups/utils/elementlist.js:15
+msgid "Dynamic"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:220
+msgid "Change Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:231
+msgid "Enable Dynamic Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:249
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:145
+msgid "Lock Aspect Ratio"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:258
+msgid "Zoom"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:272
+#: src/admin/popups/editor/fields/BackgroundFields.js:76
+msgid "Horizontal"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:285
+#: src/admin/popups/editor/fields/BackgroundFields.js:89
+msgid "Vertical"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:319
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:77
+msgid "Opacity"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:330
+msgid "Brightness"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:341
+msgid "Contrast"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:352
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:221
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:91
+msgid "Blur"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:385
+msgid "Flip Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:392
+msgid "Grayscale"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:399
+msgid "Display Border"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:429
+msgid "Border Style"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:440
+msgid "Display Overlay"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:449
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:53
+msgid "Overlay Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:457
+msgid "Image Frame"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:468
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:252
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:207
+msgid "Make Clickable"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:498
+msgid "Hover Style"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:510
+msgid "Hover Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ImageSettings.js:511
+msgid "Change Hover Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:100
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:130
+msgid "Alignment"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:106
+msgid "Make Bold"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:113
+msgid "Numbered Bullet"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:130
+msgid "Bullet Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:58
+msgid "List Font"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ListSettings.js:79
+#: src/admin/popups/editor/fields/FontControl.js:122
+msgid "Line Height"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:106
+msgid "Popup Close"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:40
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:44
+msgid "Layout"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:40
+msgid "Popup Layout"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:41
+msgid "Page Content Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:41
+msgid "Popup Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:42
+msgid "Page Content Style"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:42
+msgid "Popup Style"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:43
+msgid "Page Animations"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:43
+msgid "Popup Animations"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:44
+msgid "Page Background"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PopupSettings.js:44
+msgid "Popup Overlay"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:100
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:126
+#: src/admin/popups/editor/visibility/PlacementSettings.js:124
+msgid "No Categories Found"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:111
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:137
+msgid "Select Tags"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:112
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:138
+msgid "No Tags Found"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:123
+msgid "Select Posts"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:124
+#: src/admin/popups/editor/visibility/PlacementSettings.js:99
+#: src/admin/popups/editor/visibility/WooSettings.js:53
+msgid "No Posts Found"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:139
+msgid "Number of Posts"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:152
+msgid "Display in Random Order"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:172
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:179
+msgid "Display as Carousel"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:181
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:201
+msgid "Auto Slide"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:191
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:212
+msgid "Auto Slide Every (Seconds)"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:206
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:234
+msgid "Carousel Navigation Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:214
+msgid "Posts Per Slide"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:235
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:251
+msgid "Select Layout"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:246
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:121
+msgid "Content Font"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:254
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:112
+msgid "Title Font"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:286
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:287
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:197
+msgid "Title Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:294
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:295
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:213
+msgid "Content Text Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:301
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:89
+msgid "Display Date"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:308
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:317
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:97
+msgid "Display Category"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:317
+msgid "Display Excerpt"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:326
+msgid "Excerpt Character Count"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:343
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:352
+msgid "Display Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:352
+msgid "Align Image to Left"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:363
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:362
+msgid "Image Height"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:380
+msgid "Display Button"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:412
+msgid "This layout doesn't have a Button."
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:425
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:476
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:234
+msgid "Open Link in New Window"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:62
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:50
+msgid "Type"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:75
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:86
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:62
+msgid "Select Post"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:86
+msgid "Filter Posts By:"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:88
+msgid "Filter Posts By"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/PostSettings.js:99
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:125
+msgid "Select Categories"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:111
+msgid "Filter Products By:"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:113
+msgid "Filter Products By"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:149
+msgid "Select Products"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:150
+#: src/admin/popups/editor/visibility/PlacementSettings.js:112
+msgid "No Products Found"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:165
+msgid "Number of Products"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:190
+msgid "Products Per Slide"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:226
+msgid "Center Carousel Navigation"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:303
+msgid "Price Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:310
+msgid "Display Price"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:326
+msgid "Short Description"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:335
+msgid "Excerpt Word Count"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:376
+msgid "Image Width"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:392
+msgid "Display Cart Button"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:411
+msgid "Always Show Button"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:444
+msgid "Sale Ribbon Text"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:452
+msgid "Ribbon Text Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:460
+msgid "Ribbon Background"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:74
+msgid "Product Selection"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ProductSettings.js:96
+msgid "Display from Relevant Category in Product/Category Pages"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:111
+msgid "Upgrade to PRO and select from 40,000+ Free icons."
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:116
+msgid "Current Shape"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:126
+msgid "Fill Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:231
+msgid "Blur Strength"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:82
+msgid "Shape Type"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/ShapeSettings.js:84
+#: src/admin/popups/utils/elementlist.js:8
+msgid "Shape"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:137
+msgid "Title Font Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:150
+msgid "Text Font Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:205
+msgid "Category and Date Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:221
+msgid "Content Link Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:52
+#: src/admin/popups/utils/elementlist.js:19
+msgid "Post"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:74
+msgid "Select Page"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/SingleSettings.js:82
+msgid "Display Title"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:166
+msgid "Display Dynamic Text"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:190
+msgid "Open in Advanced Editor"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/TextSettings.js:214
+msgid "Scrollbar"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutAnimation.js:62
+msgid "Upgrade to PRO to unlock Continious Animation."
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:111
+msgid "Close Icon/Text Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:125
+msgid "Close Icon/Text Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:133
+msgid "Auto Close"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:141
+msgid "Auto Close After"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:154
+msgid "On Close also Go to Step"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:157
+msgid "Close Button Position"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:79
+msgid "Close Button Style"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutClose.js:87
+msgid "Close Custom Text"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:28
+msgid "Embedded Steps cannot have overlay."
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:33
+msgid "Enable Overlay"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:43
+msgid "Close Popup On Click"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:62
+msgid "Overlay Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutOverlay.js:62
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:114
+msgid "Background Image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:104
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:143
+msgid "Position"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:108
+msgid "Left"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:111
+msgid "Center"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:114
+msgid "Right"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:123
+msgid "Left/Right"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:134
+msgid "Top/Bottom"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:148
+msgid "Top/Bottom Spacing"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:162
+msgid "Insert this Shortcode in your Post/Page"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:55
+msgid "Top Left"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:58
+msgid "Top Center"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:61
+msgid "Top Right"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:64
+msgid "Center Left"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:70
+msgid "Center Right"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:73
+msgid "Bottom Left"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:76
+msgid "Bottom Center"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:79
+msgid "Bottom Right"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:91
+msgid "Top"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutPosition.js:97
+msgid "Bottom"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutSize.js:29
+msgid "Width"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutSize.js:56
+msgid "Height"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutSize.js:79
+#: src/admin/popups/editor/fields/BackgroundFields.js:49
+msgid "Full Height"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutSize.js:88
+msgid "Show Scrollbar"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:132
+msgid "Image Overlay"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:143
+msgid " Shadow"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:151
+msgid " Shadow Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:163
+msgid " Shadow Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:64
+msgid " Font"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:71
+msgid " Roundness"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:82
+msgid " Border Size"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Settings/layout/LayoutStyle.js:95
+msgid " Border Color"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Sidebar.js:109
+msgid " Page"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Sidebar.js:109
+msgid " Step"
+msgstr ""
+
+#: src/admin/popups/editor/builder/Sidebar/Sidebar.js:93
+msgid "Dynamic Content"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/Button.js:99
+msgid "This Button is an Add to Cart Button"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/Code.js:22
+msgid "No Preview for Custom Code"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:127
+msgid "Copy"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:128
+msgid "Cut"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:130
+msgid "Duplicate"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:132
+msgid "Group"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:133
+msgid "Ungroup"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:134
+msgid "Detach from Group"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:137
+msgid "Break Free"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:146
+msgid "Bring to Front"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:147
+msgid "Bring to Top"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:148
+msgid "Bring to Back"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:149
+msgid "Bring to Bottom"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:161
+msgid "Paste"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:169
+msgid "Save as a Preset"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:170
+msgid "Remove "
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ContextMenu.js:178
+msgid "Rotate"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ElementWrapper.js:198
+msgid ""
+"This is the Goal Target. The Popup Goal Will be Complete when a Visitor "
+"Interacts with this Element"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/ElementWrapper.js:200
+msgid "Unselect"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/Form.js:60
+msgid "Double Click to Interact with the From"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/Group.js:22
+msgid "Double Click to Edit"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/Image.js:111
+#: src/admin/popups/editor/builder/elements/Text.js:131
+msgid "This element displays Dynamic Data"
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/Image.js:56
+msgid "No Dynamic Image Selected.."
+msgstr ""
+
+#: src/admin/popups/editor/builder/elements/List.js:68
+msgid "No List Item Added "
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:197
+msgid "Import from Desktop Layout"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:201
+msgid "Hide Popup Overlay"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:201
+msgid "Show Popup Overlay"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:224
+msgid ""
+"The desktop version of this step will be displayed on mobile devices too. "
+"You can override that by Creating a Custom Layout for Mobile."
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:261
+msgid "Overlay image"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:268
+msgid "Add Guide"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:270
+msgid "Vertical Guide"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:271
+msgid "Horizontal Guide"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:272
+msgid "Hide All Guides"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:272
+msgid "Show All Guides"
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:279
+msgid ""
+"Your Popup text maybe unreadable on mobile devices since Brave is serving a "
+"scaled down version of your Popoup on Mobile. "
+msgstr ""
+
+#: src/admin/popups/editor/builder/index.js:280
+msgid "Create Custom Mobile Layout"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AlignControl.js:25
+#: src/admin/popups/editor/fields/FontControl.js:138
+msgid "Align Left"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AlignControl.js:26
+#: src/admin/popups/editor/fields/FontControl.js:139
+msgid "Align Center"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AlignControl.js:27
+#: src/admin/popups/editor/fields/FontControl.js:141
+msgid "Align Right"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:273
+msgid "On Load Animation"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:277
+msgid ""
+"This Element has Custom Animation. Are you sure you want to overwite the "
+"Custom Aanimation with Preset Animation?"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:278
+msgid "Overwrite With Preset"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:307
+msgid "Animation Delay"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:359
+msgid "Continuous Animation"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:361
+msgid "Enable"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:373
+msgid "Animation Type"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:382
+msgid "Animation Length"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:396
+msgid "Delay Between Loops"
+msgstr ""
+
+#: src/admin/popups/editor/fields/AnimationField.js:409
+msgid "Animate"
+msgstr ""
+
+#: src/admin/popups/editor/fields/BackgroundFields.js:42
+msgid "Select Image"
+msgstr ""
+
+#: src/admin/popups/editor/fields/BackgroundFields.js:63
+msgid "Image Zoom"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:109
+msgid "Click Action"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:119
+msgid "Custom URL:"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:150
+msgid "Open in New Window"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:160
+msgid "Step:"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:163
+msgid "Select Step"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:172
+msgid "You only have One Step. Please More steps to link to them."
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:179
+msgid "Javascript Function:"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:89
+msgid "Select a Step"
+msgstr ""
+
+#: src/admin/popups/editor/fields/ClickActionsField.js:92
+msgid "Step "
+msgstr ""
+
+#: src/admin/popups/editor/fields/FontControl.js:131
+msgid "Bold"
+msgstr ""
+
+#: src/admin/popups/editor/fields/FontControl.js:132
+msgid "Italic"
+msgstr ""
+
+#: src/admin/popups/editor/fields/FontControl.js:133
+msgid "Underline"
+msgstr ""
+
+#: src/admin/popups/editor/fields/FontControl.js:134
+msgid "Uppercase"
+msgstr ""
+
+#: src/admin/popups/editor/fields/FontControl.js:135
+msgid "Strike Through"
+msgstr ""
+
+#: src/admin/popups/editor/fields/FontControl.js:140
+msgid "Justify"
+msgstr ""
+
+#: src/admin/popups/editor/fields/FontPicker.js:100
+msgid "Featured"
+msgstr ""
+
+#: src/admin/popups/editor/fields/IconPicker.js:104
+msgid "Upgrade to PRO to Search from 30k Icons"
+msgstr ""
+
+#: src/admin/popups/editor/fields/IconPicker.js:36
+msgid "No Icons Found!"
+msgstr ""
+
+#: src/admin/popups/editor/fields/LayoutSelector.js:36
+msgid "Selected layout"
+msgstr ""
+
+#: src/admin/popups/editor/fields/LayoutSelector.js:38
+msgid "Select layout"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:109
+#: src/admin/popups/utils/elementlist.js:12
+msgid "Video"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:109
+#: src/admin/popups/utils/elementlist.js:7
+msgid "Image"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:111
+msgid "Upload "
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:112
+msgid "Select "
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:223
+msgid "Media Library"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:237
+msgid "Online"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:260
+msgid "Search from Millions of Photos."
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:261
+msgid "Searching..."
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:289
+msgid "Photos"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:290
+msgid "Illustrations"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:291
+msgid "Gifs"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:296
+msgid ""
+"Upgrade to PRO to Search and Import from Thousands of Free Videos from "
+"Pixabay"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:296
+msgid ""
+"Upgrade to PRO to Search and Import from Millions of Free Images from "
+"Pixabay/Giphy"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:306
+msgid "No Images Found"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:309
+msgid "Reload"
+msgstr ""
+
+#: src/admin/popups/editor/fields/MediaPicker.js:316
+msgid "Upload"
+msgstr ""
+
+#: src/admin/popups/editor/fields/PostSearchField.js:38
+msgid "Search "
+msgstr ""
+
+#: src/admin/popups/editor/fields/PostSearchField.js:47
+msgid "No Results Found.."
+msgstr ""
+
+#: src/admin/popups/editor/fields/RepeaterField.js:200
+msgid "Edit "
+msgstr ""
+
+#: src/admin/popups/editor/fields/RepeaterField.js:221
+msgid "Item"
+msgstr ""
+
+#: src/admin/popups/editor/fields/RepeaterField.js:222
+msgid "Hidden"
+msgstr ""
+
+#: src/admin/popups/editor/fields/RepeaterField.js:261
+msgid "Edit Items"
+msgstr ""
+
+#: src/admin/popups/editor/fields/RepeaterField.js:263
+msgid "No Items"
+msgstr ""
+
+#: src/admin/popups/editor/fields/TrackActionsField.js:19
+msgid "Send Click Event to GA"
+msgstr ""
+
+#: src/admin/popups/editor/fields/TrackActionsField.js:42
+msgid "Event Action Name"
+msgstr ""
+
+#: src/admin/popups/editor/fields/TrackActionsField.js:50
+msgid "Event Label"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/AudienceSettings.js:39
+msgid "Audience"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/AudienceSettings.js:47
+msgid "Came from Selected Web Pages"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/AudienceSettings.js:49
+msgid "Add/Edit Referral Web Pages"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:104
+msgid "+ Add New Rule"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:108
+msgid "You have No other published Popup. Publish another Popup to use this option."
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:113
+msgid "Only Display If Current Site Language is"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:130
+msgid "Install Woocommerce to see all Woocommerce related Filters"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:47
+msgid "Viewed Popup"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:47
+msgid "Completed Goal of Popup"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:47
+msgid "Closed Popup"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:50
+msgid "Any Language"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:65
+msgid "Visibility Filters"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:68
+msgid "General"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:69
+msgid "Woocommerce"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:74
+msgid "Only show If the URL has specific UTM Keywords"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:79
+msgid "UTM Keywords"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:87
+msgid "Only Show if Visitor Completed Goal/Viewed/Closed another Popup"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FilterSettings.js:96
+msgid "Only Show if visitor "
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:14
+msgid "Lifetime"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:14
+msgid "Day"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:14
+msgid "Month"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:20
+msgid "Frequency"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:24
+msgid "Do Not Show More Than"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:26
+msgid "times per"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:32
+msgid "Do Not Show if the Visitor Completed the Popup Goal"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:37
+msgid "Do Not Show if the Visitor submitted a Form in This Popup"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:43
+msgid "Do Not Show the Popup again for "
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:45
+msgid "days, If user closed the Popup"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:47
+msgid "times."
+msgstr ""
+
+#: src/admin/popups/editor/visibility/FrequencySettings.js:54
+msgid "Do not Show if the Countdown Timer has Ended"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:108
+msgid "All Products"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:120
+msgid "All Product Category Pages"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:131
+msgid "Select Custom Post Types where the Popup should be visible"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:132
+msgid "No Custom Post Types Found"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:139
+msgid "Custom URLs (Exact Match)"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:141
+msgid "Add/Edit Custom URLs"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:151
+msgid "Only show If the Posts have these tags"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:156
+msgid "Only show If the Products have these tags"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:40
+msgid "404 Page*"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:41
+msgid "Search Page*"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:42
+msgid "Homepage*"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:57
+msgid "Show on Selected Pages:"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:60
+msgid "Pages"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:61
+#: src/admin/popups/utils/elementlist.js:18
+msgid "Posts"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:62
+msgid "Categories"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:63
+#: src/admin/popups/utils/elementlist.js:21
+msgid "Products"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:64
+msgid "Product Categories"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:65
+msgid "CPT"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:71
+msgid "All Pages"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:75
+msgid "No Pages Found"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:83
+msgid "All Posts"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/PlacementSettings.js:95
+msgid "All Category Pages"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:112
+msgid "sec"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:125
+msgid "%"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:134
+msgid "Time on Page"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:138
+msgid "hrs"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:142
+msgid "mins"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:146
+msgid "secs"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:52
+msgid "Trigger"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:65
+msgid "Scroll Type"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:74
+msgid "Scoll to Element Class/ID"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:80
+msgid "Click Element Class/ID"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:82
+msgid "Alternatively, you can insert this in your link or button's url/href field: "
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:87
+msgid "Form Class/ID"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/TriggerSettings.js:95
+msgid "Exit Intent Mobile Fallback"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/WooSettings.js:33
+msgid "Available in PRO Only. Great for Upselling Products."
+msgstr ""
+
+#: src/admin/popups/editor/visibility/WooSettings.js:39
+msgid "Only Show if Customer's Cart is Not Empty"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/WooSettings.js:45
+msgid "Only Show if Customer's Cart includes/excludes certain Products"
+msgstr ""
+
+#: src/admin/popups/editor/visibility/WooSettings.js:49
+msgid "If Cart has any of the follwing: "
+msgstr ""
+
+#: src/admin/popups/editor/visibility/WooSettings.js:50
+msgid "AND "
+msgstr ""
+
+#: src/admin/popups/editor/visibility/WooSettings.js:50
+msgid "If Cart doesn't have any of the follwing: "
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:10
+msgid "This Year"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:11
+msgid "Last 90 Days"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:12
+msgid "Last 180 Days"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:13
+msgid "Last 365 Days"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:14
+msgid "All Time"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:2
+msgid "January"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:2
+msgid "February"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:2
+msgid "March"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:2
+msgid "April"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:2
+msgid "May"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:2
+msgid "June"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:266
+msgid "Setup"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:268
+msgid "Properly Setting up Popup Tracking."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:269
+msgid ""
+"To setup advanced tracking, make sure you have set up a popup goal. To "
+"Setup a popup goal, open your popup in the editor and click the \"Goal\" "
+"menu from top. And set the \"Goal Completes When\" option to any of the 3 "
+"options. "
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:271
+msgid "If you want the Campaign goal to complete when visitor: "
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:273
+msgid ""
+"Views a certain step, select the \"Views a Step\" option and then select "
+"the step below."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:274
+msgid ""
+"Clicks a certain elements inside the popup, select \"Clicks an element\" "
+"option and then select the elements by clicking the \"Select\" button below."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:275
+msgid ""
+"Submits a form inside the popup, select \"Submits a form\" option and then "
+"select the form element or the code element by clicking the \"Select\" "
+"button below."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:277
+msgid ""
+"Once you have changed the goal of the campaign, don't forget to reset the "
+"Campaign stats."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:282
+msgid "Interface"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:284
+msgid "Brave Analytics Interface"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:287
+msgid "You can switch between Campaigns from this dropdown menu."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:288
+msgid "Use the Date dropdown menu to change the current analytics date range. "
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:289
+msgid ""
+"The graph displays all the Views and Conversions for the current date "
+"range. "
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:290
+msgid ""
+"Details of the all visitos/users who completed your Campaing goal for the "
+"selected date range."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:291
+msgid "You can reset the Campaign stats data by clicking this button."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:293
+msgid "Note: "
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:293
+msgid ""
+"Brave does not save conversion data If you have set the campaign goal to "
+"\"View a Step\" and set then step to step 1."
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:3
+msgid "July"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:3
+msgid "August"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:3
+msgid "September"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:3
+msgid "October"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:3
+msgid "November"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:3
+msgid "December"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:7
+msgid "Last 7 Days"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:8
+msgid "This Month"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:9
+msgid "Last Month"
+msgstr ""
+
+#: src/admin/popups/utils/analytics.js:98
+msgid "Yesterday"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:10
+msgid "Button"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:13
+msgid "List"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:14
+msgid "Timer"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:17
+msgid "Login"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:20
+msgid "Product"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:22
+msgid "Social"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:23
+msgid "Code"
+msgstr ""
+
+#: src/admin/popups/utils/elementlist.js:9
+msgid "Sticker"
+msgstr ""
